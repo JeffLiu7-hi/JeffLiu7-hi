@@ -1,5 +1,5 @@
 # Hi There!
-- 👋 I am [JeffLiu7-hi](https://github.com/JeffLiu7-hi), a 9-year-old boy that likes to code.
+- 👋 I am [JeffLiu7-hi](https://github.com/JeffLiu7-hi), a 10-year-old kid that likes to study coding stuff.
 - 😁 I belong to a organization called [J&K hhh](https://github.com/J-K-hhh) where me and [my mom](https://github.com/kolafish) belongs there.
 - 🔭 I’m currently working on [AdVantage Ad Page](github.com/JeffLiu7-hi/advantage-ad)
 - 🌱 I’m currently learning on [Aseprite](https://github.com/aseprite/aseprite)
